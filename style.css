@@ -1,0 +1,26 @@
+body{
+    /* Comentario */
+background: #84592b;
+background: linear-gradient(0deg, #84592b 0%, #e8d1a7 100%);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 15px;
+}
+.Portadacaricatura{
+    width: 500px;
+    border-radius: 15px;
+}
+h2{
+    text-align: center;
+}
+h1{
+   
+    text-align: center;
+}
+.Personajes{
+    background-image: url("https://i.pinimg.com/564x/3e/53/d5/3e53d5cff207f93c2640c3b84e120f28.jpg");
+    background-size: cover;
+    font-size: 25px;
+}
+p{
+    font-size: 20px;
+}
